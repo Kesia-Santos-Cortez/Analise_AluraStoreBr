@@ -3,7 +3,7 @@
 <h2> 📋 Sobre o Projeto </h2>
 Este projeto tem como objetivo analisar o desempenho de quatro lojas da rede Alura Store para apoiar a decisão estratégica do proprietário, Senhor João, sobre qual loja vender para iniciar um novo empreendimento.
 
-A análise foi baseada em dados reais de vendas, fretes, avaliações e categorias de produtos, utilizando Python e bibliotecas de análise de dados e visualização como Pandas, Matplotlib e Seaborn.
+A análise foi baseada em dados fictícios de vendas, fretes, avaliações e categorias de produtos, utilizando Python e bibliotecas de análise de dados e visualização como Pandas, Matplotlib e Seaborn.
 
 <h2 > 🛠️ Ferramentas Utilizadas </h2>
 
