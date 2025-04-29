@@ -17,15 +17,16 @@ A análise foi baseada em dados reais de vendas, fretes, avaliações e categori
 Jupyter Notebook / Google Colab
 
 <h2> 📈 Métricas Avaliadas </h2>
-- Faturamento, Despesas e Saldo
 
-- Quantidade de Vendas por Categoria
+- Faturamento, Despesas e Saldo;
 
-- Avaliação Média dos Clientes
+- Quantidade de Vendas por Categoria;
 
-- Frete Médio
+- Avaliação Média dos Clientes;
 
-- Produtos Mais e Menos Vendidos
+- Frete Médio;
+
+- Produtos Mais e Menos Vendidos;
 
 - Ticket Médio
 
