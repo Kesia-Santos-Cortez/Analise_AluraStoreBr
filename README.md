@@ -29,7 +29,9 @@ A análise foi baseada em dados fictícios de vendas, fretes, avaliações e cat
 
 - Produtos Mais e Menos Vendidos;
 
-- Ticket Médio
+- Ticket Médio;
+  
+- Faturamento por Região
 
 <h2> 📊 Visualizações </h2>
 <h3> Faturamento, Despesas e Saldo por Loja</h3>
