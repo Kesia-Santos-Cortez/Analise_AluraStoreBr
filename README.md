@@ -82,6 +82,7 @@ Sugestões adicionais:
 
 <h2>📂 Estrutura do Projeto</h2>
 - ChallengeAluraStoreBr.ipynb: Notebook contendo toda a análise exploratória, cálculos e gráficos.
+https://github.com/SeuUsuário/Analise_AluraStoreBr
 
 <h2> 👤 Autora <h2/>
 Kesia Karine Lima Santos 
