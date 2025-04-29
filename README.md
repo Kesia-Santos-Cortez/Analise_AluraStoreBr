@@ -54,6 +54,8 @@ Jupyter Notebook / Google Colab
 
 ![Image](images/imagem_ticket_medio.png)
 
+<h3>Faturamento por Região</h3>
+![Image](images/regioes.png)
 
 <h2>🔎 Principais Conclusões</h2>
 
