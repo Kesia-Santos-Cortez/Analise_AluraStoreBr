@@ -6,6 +6,7 @@ Este projeto tem como objetivo analisar o desempenho de quatro lojas da rede Alu
 A análise foi baseada em dados reais de vendas, fretes, avaliações e categorias de produtos, utilizando Python e bibliotecas de análise de dados e visualização como Pandas, Matplotlib e Seaborn.
 
 <h2 > 🛠️ Ferramentas Utilizadas </h2>
+
 - Python 3
 
 - Pandas
@@ -14,7 +15,7 @@ A análise foi baseada em dados reais de vendas, fretes, avaliações e categori
 
 - Seaborn
 
-Jupyter Notebook / Google Colab
+- Jupyter Notebook / Google Colab
 
 <h2> 📈 Métricas Avaliadas </h2>
 
